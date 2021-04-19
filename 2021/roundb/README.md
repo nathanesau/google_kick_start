@@ -1,4 +1,14 @@
-# score
+# 2021 Round B
+
+Notes:
+
+* First attempt at Google Kick Start
+* Solved all sample test cases and had solve approach for all questions
+  * Q2: Wrong Answer (Not sure why)
+  * Q3: MLE (Sieve takes a lot of memory)
+  * Q4: TLE (Not sure why)
+
+Scores:
 
 q1: 12/12
 q2: 0/21
