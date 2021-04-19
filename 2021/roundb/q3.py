@@ -7,7 +7,7 @@ import bisect
 2020
 """
 
-# substring: 7pts, 9pts, 14pts
+# consecutive: 7pts, 9pts, 14pts
 def sieve(n):
       
     # Create a boolean array "prime[0..n]" and initialize
