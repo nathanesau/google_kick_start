@@ -6,3 +6,11 @@ q3: 16/30
 q4: 0/37
 
 all sample test cases pass.
+
+problem2 idea:
+
+![problem2](https://user-images.githubusercontent.com/4649987/115171963-3f252380-a092-11eb-81d5-03c2630cbc6c.png)
+
+problem4 idea:
+
+![problem4](https://user-images.githubusercontent.com/4649987/115171933-2ddc1700-a092-11eb-9de1-5d7fe1631070.png)
